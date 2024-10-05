@@ -1,4 +1,4 @@
-# Headless CRM
+# Headless CRM -----------------
 
 This is a headless CRM system built with FastAPI, SQLAlchemy, and Pydantic.
 
